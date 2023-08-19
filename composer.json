@@ -1,0 +1,17 @@
+{
+    "name": "ademilson/rinha-back-end",
+    "description": "Projeto para rinha de back end",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ademilson Carvalho",
+            "email": "ade.carvalho@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RinhaBackEnd\\": "src/"
+        }
+    }
+}
